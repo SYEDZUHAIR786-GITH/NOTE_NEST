@@ -1,0 +1,25 @@
+# Node dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Production build outputs
+dist/
+client/dist/
+
+# SQLite Database & Local Logs
+*.db
+*.db-wal
+*.db-shm
+*.log
+server/*.log
+server/debug.log
+server/server_out.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local

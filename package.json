@@ -1,0 +1,13 @@
+{
+  "name": "notenest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NoteNest Full-Stack Note Organization Web App",
+  "scripts": {
+    "dev": "npm --prefix client run dev",
+    "dev:client": "npm --prefix client run dev",
+    "dev:server": "npm --prefix server run dev",
+    "build:client": "npm --prefix client run build",
+    "start:server": "npm --prefix server start"
+  }
+}

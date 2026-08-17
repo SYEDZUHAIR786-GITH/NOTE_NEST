@@ -1,0 +1,6 @@
+node_modules/
+notenest.db
+notenest.db-journal
+notenest.db-wal
+notenest.db-shm
+.env
