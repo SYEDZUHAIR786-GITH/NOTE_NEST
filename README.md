@@ -225,7 +225,7 @@ A student-focused digital workspace for organizing, managing, and accessing lear
 
 ## 📄 License
 
-This project is currently intended for educational and project-development purposes.
+This project is currently intended for educational and project development purposes and created by SYED ZUHAIR SHAH.
 
 ---
 
